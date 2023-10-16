@@ -1,2 +1,6 @@
-# wpu-resolusi
-repositori untuk menyimpan rencana WPU kedepannya
+# WPU resolusi
+-konsistsen untuk membuat konten 2x seminggu
+-membuat platfrom untuk pengelolaan vidio
+-membuat forum diskusi
+
+
